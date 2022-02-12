@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ReactCoderhouse/static/css/main.a217e613.chunk.css",
+    "main.js": "/ReactCoderhouse/static/js/main.30158ec4.chunk.js",
+    "main.js.map": "/ReactCoderhouse/static/js/main.30158ec4.chunk.js.map",
+    "runtime-main.js": "/ReactCoderhouse/static/js/runtime-main.e5ea0337.js",
+    "runtime-main.js.map": "/ReactCoderhouse/static/js/runtime-main.e5ea0337.js.map",
+    "static/css/2.383c0125.chunk.css": "/ReactCoderhouse/static/css/2.383c0125.chunk.css",
+    "static/js/2.7db5f355.chunk.js": "/ReactCoderhouse/static/js/2.7db5f355.chunk.js",
+    "static/js/2.7db5f355.chunk.js.map": "/ReactCoderhouse/static/js/2.7db5f355.chunk.js.map",
+    "index.html": "/ReactCoderhouse/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/ReactCoderhouse/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.a217e613.chunk.css.map": "/ReactCoderhouse/static/css/main.a217e613.chunk.css.map",
+    "static/js/2.7db5f355.chunk.js.LICENSE.txt": "/ReactCoderhouse/static/js/2.7db5f355.chunk.js.LICENSE.txt",
+    "static/media/logo.1a202688.png": "/ReactCoderhouse/static/media/logo.1a202688.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5ea0337.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.7db5f355.chunk.js",
+    "static/css/main.a217e613.chunk.css",
+    "static/js/main.30158ec4.chunk.js"
+  ]
+}
