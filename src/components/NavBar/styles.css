@@ -1,0 +1,15 @@
+.nav-bg {
+    background-color: #37373f !important;
+}
+
+.nav-logo {
+    width: 250px;
+    height: 250px;
+}
+
+@media (max-width: 992px) {
+    .nav-logo {
+        width: 125px;
+        height: 125px;
+    }
+}

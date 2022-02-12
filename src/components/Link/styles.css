@@ -1,0 +1,32 @@
+.nav-link {
+    display: flex;
+    color: #fff !important;
+    margin-left: 16px;
+    margin-right: 16px;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    border-bottom: 3px solid #fff;
+    padding-bottom: 1.5px;
+}
+
+.nav-link-producto {
+    display: flex;
+    color: #000 !important;
+    margin-bottom: 8px;
+    margin-top: 8px;
+    text-decoration: none;
+}
+
+.nav-link-producto:hover {
+    display: flex;
+    color: #000 !important;
+    text-decoration: none;
+    border-bottom: 2px solid #91C612;
+}
+
+.dropdown-menu {
+    border: 2px solid #91C612;
+    opacity: 0.85;
+}

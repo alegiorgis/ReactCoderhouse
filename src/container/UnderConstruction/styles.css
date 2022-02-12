@@ -1,0 +1,7 @@
+@media (max-width: 992px) {
+    .under-construction-img {
+        max-height: 100%;
+        width: 300px;
+        height: 300px;
+    }
+}

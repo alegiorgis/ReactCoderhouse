@@ -1,0 +1,18 @@
+.footer {
+    background: #91C612;
+    color: #fff;
+}
+
+.footer-main-text {
+    font-size: 2.25em;
+}
+
+.divider {
+    border-bottom: 2px solid #fff;
+}
+
+@media (max-width: 992px) {
+    .footer-main-text {
+        font-size: 1.25em;
+    }
+}
